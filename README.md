@@ -1,6 +1,3 @@
-# PhD-Inquiry-Research-Tracking-Automation
-A Google Apps Script-based automation tool for academic PhD outreach. Features include time-zone scheduling, Gmail API reply detection, 14-day follow-up logic, and automated Google Drive document integration. Designed for researchers to manage high-volume, high-precision applications.
-
 # PhD Outreach & Research Tracking Automation
 
 A robust automation system built with **Google Apps Script** and **Gmail API** to streamline high-stakes academic outreach. This tool manages personalized communication with PhD supervisors while ensuring zero redundancy through smart reply detection.
